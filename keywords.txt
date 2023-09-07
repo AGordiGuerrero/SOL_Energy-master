@@ -1,0 +1,16 @@
+energyPlant	        KEYWORD1
+init        		KEYWORD2
+getStatus               KEYWORD2
+readandcheckAll		KEYWORD2
+readDHT 	        KEYWORD2
+readOneWire_onesensor   KEYWORD2
+readVbat_I2C   		KEYWORD2
+readWeight_I2C_onesample KEYWORD2
+readWeight_I2C_Nsamples KEYWORD2
+readButton		KEYWORD2
+analogbuttonpressed	KEYWORD2
+checkVbat   		KEYWORD2
+checkH   		KEYWORD2
+checkT   		KEYWORD2
+checkWeight   		KEYWORD2
+turnRelayOFF   		KEYWORD2
